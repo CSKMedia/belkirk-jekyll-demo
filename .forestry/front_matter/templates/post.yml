@@ -40,4 +40,4 @@ fields:
   hidden: true
   default: post
 pages:
-- _posts/nytt-inlägg.md
+- _posts/2019-01-14-nytt-inlägg.md
